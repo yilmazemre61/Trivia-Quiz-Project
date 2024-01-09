@@ -1,4 +1,4 @@
-# Trivia-Quiz-roject
+# Trivia-Quiz-Project
 This project is a Trivia Quiz built using Object-Oriented Programming (OOP) principles. It presents a series of trivia questions to the user, allowing them to test their knowledge across various topics. The questions are stored in a list with dictionaries, making it easy to manage and display them in a user-friendly manner.
 
 # Question Data List: 
